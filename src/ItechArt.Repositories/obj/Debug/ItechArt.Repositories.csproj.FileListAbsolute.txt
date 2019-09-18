@@ -1,0 +1,11 @@
+D:\myProject\drawiosharing\src\ItechArt.Repositories\bin\Debug\ItechArt.Repositories.dll
+D:\myProject\drawiosharing\src\ItechArt.Repositories\bin\Debug\ItechArt.Repositories.pdb
+D:\myProject\drawiosharing\src\ItechArt.Repositories\bin\Debug\EntityFramework.dll
+D:\myProject\drawiosharing\src\ItechArt.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\myProject\drawiosharing\src\ItechArt.Repositories\bin\Debug\EntityFramework.xml
+D:\myProject\drawiosharing\src\ItechArt.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csprojAssemblyReference.cache
+D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CoreCompileInputs.cache
+D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CopyComplete
+D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.dll
+D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.pdb

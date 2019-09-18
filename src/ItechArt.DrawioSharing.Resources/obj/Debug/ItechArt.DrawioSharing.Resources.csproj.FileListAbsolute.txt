@@ -1,0 +1,14 @@
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.pdb
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csprojAssemblyReference.cache
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.g.resources
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csproj.CoreCompileInputs.cache
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.pdb
+D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.pdb
+D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csprojAssemblyReference.cache
+D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.g.resources
+D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csproj.CoreCompileInputs.cache
+D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.pdb

@@ -1,0 +1,6 @@
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Foundation\bin\Debug\ItechArt.DrawioSharing.Foundation.dll
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Foundation\bin\Debug\ItechArt.DrawioSharing.Foundation.pdb
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.csprojAssemblyReference.cache
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.csproj.CoreCompileInputs.cache
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.dll
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.pdb

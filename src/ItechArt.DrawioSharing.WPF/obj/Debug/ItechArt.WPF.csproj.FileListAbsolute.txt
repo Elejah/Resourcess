@@ -1,0 +1,6 @@
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.WPF\bin\Debug\ItechArt.DrawioSharing.WPF.dll
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.WPF\bin\Debug\ItechArt.DrawioSharing.WPF.pdb
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.WPF.csprojAssemblyReference.cache
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.WPF.csproj.CoreCompileInputs.cache
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.DrawioSharing.WPF.dll
+D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.DrawioSharing.WPF.pdb
