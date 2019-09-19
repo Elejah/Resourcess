@@ -29,7 +29,7 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition />
             </Grid.RowDefinitions>
-            <Button Style="{StaticResource HeaderButtonStyle}" Command="{Binding LangCommand}" Content="{Binding languagelabel, UpdateSourceTrigger=PropertyChanged}" />
+            <Button Content="Change language" Style="{StaticResource HeaderButtonStyle}" Command="{Binding LangCommand}" />
 
             <StackPanel Grid.Row="1" Orientation="Horizontal">
                 <Label x:Name="MessageLabel" Content="{Binding Message}" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Center" />

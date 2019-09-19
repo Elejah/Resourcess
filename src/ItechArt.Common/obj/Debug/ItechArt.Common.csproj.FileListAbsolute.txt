@@ -7,3 +7,12 @@ D:\myProject\drawiosharing\src\ItechArt.Common\obj\Debug\ItechArt.Common.csproj.
 D:\myProject\drawiosharing\src\ItechArt.Common\obj\Debug\ItechArt.Common.csproj.CopyComplete
 D:\myProject\drawiosharing\src\ItechArt.Common\obj\Debug\ItechArt.Common.dll
 D:\myProject\drawiosharing\src\ItechArt.Common\obj\Debug\ItechArt.Common.pdb
+D:\testgiresutces\Resourcess\src\ItechArt.Common\bin\Debug\ItechArt.Common.dll
+D:\testgiresutces\Resourcess\src\ItechArt.Common\bin\Debug\ItechArt.Common.pdb
+D:\testgiresutces\Resourcess\src\ItechArt.Common\bin\Debug\log4net.dll
+D:\testgiresutces\Resourcess\src\ItechArt.Common\bin\Debug\log4net.xml
+D:\testgiresutces\Resourcess\src\ItechArt.Common\obj\Debug\ItechArt.Common.csprojAssemblyReference.cache
+D:\testgiresutces\Resourcess\src\ItechArt.Common\obj\Debug\ItechArt.Common.csproj.CoreCompileInputs.cache
+D:\testgiresutces\Resourcess\src\ItechArt.Common\obj\Debug\ItechArt.Common.csproj.CopyComplete
+D:\testgiresutces\Resourcess\src\ItechArt.Common\obj\Debug\ItechArt.Common.dll
+D:\testgiresutces\Resourcess\src\ItechArt.Common\obj\Debug\ItechArt.Common.pdb

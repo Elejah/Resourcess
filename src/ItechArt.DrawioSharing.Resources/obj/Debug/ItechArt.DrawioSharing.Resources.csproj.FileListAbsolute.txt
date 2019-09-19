@@ -12,3 +12,10 @@ D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\Itech
 D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csproj.CoreCompileInputs.cache
 D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.dll
 D:\Resourcess\drawiosharing\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.pdb
+D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.pdb
+D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csprojAssemblyReference.cache
+D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.g.resources
+D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csproj.CoreCompileInputs.cache
+D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.pdb

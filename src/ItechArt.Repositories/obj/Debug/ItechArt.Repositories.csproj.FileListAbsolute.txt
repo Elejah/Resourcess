@@ -9,3 +9,14 @@ D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Reposito
 D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CopyComplete
 D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.dll
 D:\myProject\drawiosharing\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.pdb
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\bin\Debug\ItechArt.Repositories.dll
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\bin\Debug\ItechArt.Repositories.pdb
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.dll
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.xml
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csprojAssemblyReference.cache
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CoreCompileInputs.cache
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CopyComplete
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.dll
+D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.pdb
