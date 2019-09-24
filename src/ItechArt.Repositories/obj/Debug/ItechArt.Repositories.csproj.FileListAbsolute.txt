@@ -20,3 +20,14 @@ D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Reposi
 D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CopyComplete
 D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.dll
 D:\testgiresutces\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\bin\Debug\ItechArt.Repositories.dll
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\bin\Debug\ItechArt.Repositories.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.dll
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.xml
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csprojAssemblyReference.cache
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CoreCompileInputs.cache
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.csproj.CopyComplete
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.dll
+D:\GitResourcess\Resourcess\src\ItechArt.Repositories\obj\Debug\ItechArt.Repositories.pdb

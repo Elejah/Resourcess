@@ -10,3 +10,9 @@ D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.W
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.WPF.csproj.CoreCompileInputs.cache
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.DrawioSharing.WPF.dll
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.DrawioSharing.WPF.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.WPF\bin\Debug\ItechArt.DrawioSharing.WPF.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.WPF\bin\Debug\ItechArt.DrawioSharing.WPF.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.WPF.csprojAssemblyReference.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.WPF.csproj.CoreCompileInputs.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.DrawioSharing.WPF.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.WPF\obj\Debug\ItechArt.DrawioSharing.WPF.pdb

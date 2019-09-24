@@ -10,3 +10,9 @@ D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\Ite
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.csproj.CoreCompileInputs.cache
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.dll
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Foundation\bin\Debug\ItechArt.DrawioSharing.Foundation.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Foundation\bin\Debug\ItechArt.DrawioSharing.Foundation.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.csprojAssemblyReference.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.csproj.CoreCompileInputs.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Foundation\obj\Debug\ItechArt.DrawioSharing.Foundation.pdb

@@ -19,3 +19,15 @@ D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\Itec
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csproj.CoreCompileInputs.cache
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.dll
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\bin\Debug\ItechArt.DrawioSharing.Resources.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\bin\Debug\fr\ItechArt.DrawioSharing.Resources.resources.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csprojAssemblyReference.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.g.resources
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.Resources.Resource.resources
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.Resources.Resource.fr.resources
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csproj.GenerateResource.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.csproj.CoreCompileInputs.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\fr\ItechArt.DrawioSharing.Resources.resources.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.pdb

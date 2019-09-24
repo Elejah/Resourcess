@@ -24,3 +24,16 @@ D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\I
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.csproj.CopyComplete
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.dll
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\ItechArt.DrawioSharing.Repositories.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\ItechArt.DrawioSharing.Repositories.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\EntityFramework.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\ItechArt.DrawioSharing.DomainModel.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\ItechArt.DrawioSharing.DomainModel.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\EntityFramework.xml
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.csprojAssemblyReference.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.csproj.CoreCompileInputs.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.csproj.CopyComplete
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Repositories\obj\Debug\ItechArt.DrawioSharing.Repositories.pdb

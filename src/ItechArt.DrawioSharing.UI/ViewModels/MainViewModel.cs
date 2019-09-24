@@ -13,8 +13,6 @@ namespace ItechArt.DrawioSharing.UI.ViewModels
 
         private bool _isVisible;
 
-        private bool _isFrench;
-
         private string _message;
 
         public string Message
@@ -96,18 +94,8 @@ namespace ItechArt.DrawioSharing.UI.ViewModels
         }
         private void Changelanguage()
         {
-            if (!_isFrench)
-            {
-                _isFrench = true;
-                string s = Resource.ResourceManager.GetString("DrawandSharing", CultureInfo.GetCultureInfo("fr-FR"));
-                Message = s;
-            }
-            else
-            {
-                _isFrench = false;
-                string s = Resource.ResourceManager.GetString("DrawandSharing", CultureInfo.GetCultureInfo("en-GB"));
-                Message = s;
-            }
+            string s = Resource.ResourceManager.GetString("DrawandSharing");
+            Message = s;
         }
     }
 }

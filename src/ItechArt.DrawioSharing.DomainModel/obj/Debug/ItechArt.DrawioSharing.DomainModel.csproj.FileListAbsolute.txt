@@ -4,3 +4,9 @@ D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\Itec
 D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\ItechArt.DrawioSharing.DomainModel.csproj.CoreCompileInputs.cache
 D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\ItechArt.DrawioSharing.DomainModel.dll
 D:\myProject\drawiosharing\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\ItechArt.DrawioSharing.DomainModel.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.DomainModel\bin\Debug\ItechArt.DrawioSharing.DomainModel.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.DomainModel\bin\Debug\ItechArt.DrawioSharing.DomainModel.pdb
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\ItechArt.DrawioSharing.DomainModel.csprojAssemblyReference.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\ItechArt.DrawioSharing.DomainModel.csproj.CoreCompileInputs.cache
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\ItechArt.DrawioSharing.DomainModel.dll
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.DomainModel\obj\Debug\ItechArt.DrawioSharing.DomainModel.pdb

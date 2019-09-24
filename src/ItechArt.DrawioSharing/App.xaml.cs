@@ -7,6 +7,8 @@ using ItechArt.DrawioSharing.UI.Views;
 using Prism.Mvvm;
 using System;
 using ItechArt.DrawioSharing.UI;
+using System.Threading;
+using System.Globalization;
 
 namespace ItechArt.DrawioSharing
 {
@@ -25,6 +27,7 @@ namespace ItechArt.DrawioSharing
         protected override void OnInitialized()
         {
             //added for hide window on start up
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo(Cultures.English);
         }
 
         protected override void ConfigureViewModelLocator()
