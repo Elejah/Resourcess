@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=VIEW_005CVIEW_005CRESOURCES/@EntryIndexedValue">View\View\Resources</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/IgnoredPaths/=VIEW_005CVIEW_005CRESOURCES_005CII_002EICO/@EntryIndexedValue">View\View\Resources\ii.ico</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/MappedPaths/=VIEW_005CITECHART_002EDRAWIOSHARING_002ERESOURCES_003BCOMPONENT_002ERESOURCES/@EntryIndexedValue"></s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=VIEW_005CITECHART_002EDRAWIOSHARING_002ERESOURCES_003BCOMPONENT_002ERESOURCES/@EntryIndexedValue">View\ItechArt.DrawioSharing.Resources;component.Resources</s:String>
+	
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=VIEW_005CVIEW_005CRESOURCES/@EntryIndexedValue">View\View\Resources</s:String>
+	<s:String x:Key="/Default/CodeInspection/WebPathMapping/PathsInCorrectCasing/=VIEW_005CVIEW_005CRESOURCES_005CII_002EICO/@EntryIndexedValue">View\View\Resources\ii.ico</s:String></wpf:ResourceDictionary>
