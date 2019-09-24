@@ -29,5 +29,5 @@ D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\Itech
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\fr\ItechArt.DrawioSharing.Resources.resources.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.pdb
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.Resource.resources
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.Resource.fr.resources
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.Resources.Resource.resources
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.Resources\obj\Debug\ItechArt.DrawioSharing.Resources.Resources.Resource.fr.resources

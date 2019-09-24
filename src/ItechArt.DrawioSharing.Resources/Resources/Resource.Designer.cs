@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ItechArt.DrawioSharing.Resources {
+namespace ItechArt.DrawioSharing.Resources.Resources {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace ItechArt.DrawioSharing.Resources {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ItechArt.DrawioSharing.Resources.Resource", typeof(Resource).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ItechArt.DrawioSharing.Resources.Resources.Resource", typeof(Resource).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
