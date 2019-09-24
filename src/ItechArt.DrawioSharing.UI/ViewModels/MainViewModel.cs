@@ -1,6 +1,7 @@
 ﻿using System;
-using System.Globalization;
 using System.Windows.Input;
+using ItechArt.DrawioSharing.Resources;
+using ItechArt.DrawioSharing.Resources.Resources;
 using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Regions;

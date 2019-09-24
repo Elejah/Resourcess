@@ -115,7 +115,6 @@ D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.Dr
 D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.pdb
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\bin\Debug\ItechArt.DrawioSharing.UI.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\bin\Debug\ItechArt.DrawioSharing.UI.pdb
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\bin\Debug\fr\ItechArt.DrawioSharing.UI.resources.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\bin\Debug\ItechArt.DrawioSharing.Foundation.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\bin\Debug\ItechArt.DrawioSharing.Resources.dll
@@ -146,11 +145,7 @@ D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.Dra
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI_MarkupCompile.lref
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\Views\MainView.baml
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.g.resources
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.ViewModels.Resource.resources
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.ViewModels.Resource.fr.resources
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.csproj.GenerateResource.cache
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.csproj.CoreCompileInputs.cache
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\fr\ItechArt.DrawioSharing.UI.resources.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.csproj.CopyComplete
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\ItechArt.DrawioSharing.UI.pdb

@@ -588,7 +588,6 @@ D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\bin\Debug\Unity.Container
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\bin\Debug\log4net.xml
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\bin\Debug\EntityFramework.xml
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\bin\Debug\fr\ItechArt.DrawioSharing.Resources.resources.dll
-D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\bin\Debug\fr\ItechArt.DrawioSharing.UI.resources.dll
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\obj\Debug\ItechArt.DrawioSharing.csprojAssemblyReference.cache
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\obj\Debug\ItechArt.DrawioSharing.exe.config
 D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing\obj\Debug\App.g.cs
