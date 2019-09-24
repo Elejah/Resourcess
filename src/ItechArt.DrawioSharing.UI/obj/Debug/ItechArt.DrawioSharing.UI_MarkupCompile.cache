@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\testgiresutces\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\
+D:\GitResourcess\Resourcess\src\ItechArt.DrawioSharing.UI\obj\Debug\
 ItechArt.DrawioSharing.UI
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 5861300649
 
-10-1796429682
-21117057204
+14-476461555
+21-146021874
 Styles\MainViewStyles.xaml;Views\AboutView.xaml;Views\DiagramsView.xaml;Views\MainView.xaml;Views\SettingsView.xaml;
 
-False
+True
 
